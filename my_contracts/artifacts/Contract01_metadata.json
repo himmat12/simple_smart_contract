@@ -1,0 +1,64 @@
+{
+	"compiler": {
+		"version": "0.8.9+commit.e5eed63a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "data",
+						"type": "string"
+					}
+				],
+				"name": "fun",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"my_contracts/contract01.sol": "Contract01"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"my_contracts/contract01.sol": {
+			"keccak256": "0xff04c4a4464e784fad2c5be243aa126518b93a20f08a2a67944b8385c6e38fe6",
+			"urls": [
+				"bzz-raw://5bfef2956eea7dcc4e685eae10a0a000f04e5466533270aca222edb03f6b698e",
+				"dweb:/ipfs/Qmb9ZzDmeV66hveC9nPazqHgegJ7TuZERXph9i5wJzPB3m"
+			]
+		}
+	},
+	"version": 1
+}
